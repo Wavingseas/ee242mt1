@@ -1,0 +1,13 @@
+Asciiname= e+f+e = 101+102+101 = 304
+
+Asciisurname = k+a+r+t+a+l = 107+97+114+116+97+108=639
+
+Asciitotal = 943
+
+Timernumber = (943%14=5)+1=6
+
+ARRNUMBER = 65535
+
+Duration = 19170 (639%1500 = 639 / 639*30 = 19170)
+
+LEDPINNUMBER = (943%4=3)+12 = 15
